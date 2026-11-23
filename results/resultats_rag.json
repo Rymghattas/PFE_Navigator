@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Quelle est la date limite de dépôt du rapport final de PFE, et sous quelle forme faut-il le remettre ?",
+        "reponse": "La date limite de dépôt du rapport final de PFE est le 11 juin 2027. Il doit être déposé sur la plateforme ISIT-Stages en PDF, avec un exemplaire relié remis au secrétariat du département.\n\nCitation des documents utilisés :\n- Document : 05_calendrier_universitaire.pdf, Page 2\n- Document : 01_guide_pfe.pdf, Pages 2 - 2",
+        "sources": [
+            {
+                "document": "05_calendrier_universitaire.pdf",
+                "pages": "1 - 2"
+            },
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "2 - 2"
+            }
+        ]
+    },
+    {
+        "question": "Comment est calculée la note finale du PFE, et à partir de quelle note est-il validé ?",
+        "reponse": "La note finale du PFE est calculée en moyennant les notes attribuées par chaque membre du jury, selon le barème mentionné dans le Guide de soutenance. Le PFE est validé avec une note supérieure ou égale à 10/20.\n\nCes informations proviennent du document 04_guide_soutenance.pdf, pages 2-2.",
+        "sources": [
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "04_guide_soutenance.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "2 - 2"
+            }
+        ]
+    },
+    {
+        "question": "Quelle police et quel interligne faut-il utiliser dans le rapport ?",
+        "reponse": "Pour le rapport, il faut utiliser la police Times New Roman et un interligne de 1,5. \n\nCela est explicitement mentionné dans le document 03_guide_redaction.pdf, page 2.\n\nSource : ISIT – Guide de rédaction du rapport de PFE – 2026-2027 – v2.5",
+        "sources": [
+            {
+                "document": "02_reglement_stages.pdf",
+                "pages": "2 - 3"
+            },
+            {
+                "document": "03_guide_redaction.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "03_guide_redaction.pdf",
+                "pages": "1 - 1"
+            }
+        ]
+    },
+    {
+        "question": "Quelle est la date de la session de rattrapage des soutenances ?",
+        "reponse": "Selon le calendrier universitaire fourni dans le document 05_calendrier_universitaire.pdf, la session de rattrapage des soutenances se déroule du 13 au 17 septembre 2027.\n\nRéférence : Document 05_calendrier_universitaire.pdf, Page 2.",
+        "sources": [
+            {
+                "document": "05_calendrier_universitaire.pdf",
+                "pages": "1 - 2"
+            },
+            {
+                "document": "05_calendrier_universitaire.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "05_calendrier_universitaire.pdf",
+                "pages": "1 - 2"
+            }
+        ]
+    },
+    {
+        "question": "Quel est le montant de la bourse accordée aux étudiants effectuant leur PFE ?",
+        "reponse": "Je ne sais pas d'après les documents fournis.\n\nLes documents fournis ne contiennent aucune information concernant le montant de la bourse accordée aux étudiants effectuant leur PFE.",
+        "sources": [
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "2 - 2"
+            },
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "1 - 1"
+            },
+            {
+                "document": "01_guide_pfe.pdf",
+                "pages": "1 - 2"
+            }
+        ]
+    }
+]

@@ -1,14 +1,32 @@
 [
     {
         "question": "Quelle est la date limite de dépôt du rapport final de PFE, et sous quelle forme faut-il le remettre ?",
-        "reponse": null,
-        "statut": "error",
-        "erreur": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'Deadline expired before operation could complete.', 'status': 'UNAVAILABLE'}}"
+        "reponse": "Pour répondre précisément à votre question, il serait utile de connaître les détails spécifiques de votre programme de PFE (Projet Final d'Études) ou de votre institution d'enseignement. Cependant, je peux vous donner quelques conseils généraux sur la date limite et la forme de remise du rapport final :\n\n1. Date limite de dépôt :\n   - Elle est généralement fixée par votre université ou l'organisme responsable du PFE.\n   - Elle peut varier selon les filières et les établissements.\n   - Elle est souvent annoncée au début de l'année académique ou à la fin du semestre.\n\n2. Forme de remise du rapport :\n   - Version papier : Certains établissements préfèrent une version imprimée.\n   - Version électronique : De plus en plus d'établissements acceptent des versions numériques.\n   - Version PDF : C'est souvent la forme recommandée, car elle est facile à transmettre et à archiver.\n   - Version numérique avec signature électronique : Certains établissements exigent une signature électronique.\n\n3. Contenu du rapport :\n   - Résumé\n   - Introduction\n   - Méthodologie\n   - Résultats\n   - Discussion\n   - Conclusion\n   - Bibliographie\n\n4.",
+        "statut": "success",
+        "erreur": null
     },
     {
         "question": "Comment est calculée la note finale du PFE, et à partir de quelle note est-il validé ?",
-        "reponse": null,
-        "statut": "error",
-        "erreur": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "reponse": "Le PFE (Projet Final d'Études) est un travail de fin d'études universitaires qui vise à évaluer les compétences acquises par les étudiants en fin de cursus. La note finale du PFE est généralement calculée en tenant compte de plusieurs éléments, qui peuvent varier selon l'université et le département. Voici un aperçu général du processus :\n\n1. **Évaluation par un jury** : Le PFE est généralement soumis à un jury composé d'enseignants, de chercheurs et parfois d'experts extérieurs. Le jury évalue le travail sur plusieurs critères, tels que la pertinence du sujet, la méthodologie utilisée, l'originalité des résultats, la qualité de l'écriture et de la présentation, et la compréhension des concepts théoriques.\n\n2. **Critères d'évaluation** : Les critères peuvent inclure :\n   - Le choix du sujet et sa pertinence\n   - La maîtrise des connaissances théoriques\n   - La méthodologie utilisée\n   - L'originalité et l'innovation des résultats\n   - La qualité de l'écriture et de la présentation\n   - La capacité à analyser et interpréter les résultats\n\n3. **Note finale** : La",
+        "statut": "success",
+        "erreur": null
+    },
+    {
+        "question": "Quelle police et quel interligne faut-il utiliser dans le rapport ?",
+        "reponse": "La police et l'interligne à utiliser dans un rapport peuvent varier selon les recommandations de votre institution, de votre professeur ou de votre employeur, ou selon le type de rapport que vous écrivez. Cependant, voici une recommandation générale qui est souvent utilisée et qui est acceptable dans de nombreux contextes :\n\n1. Police : La police Times New Roman est largement utilisée et est considérée comme lisible et professionnelle. Autres options courantes incluent Arial et Calibri.\n\n2. Taille de police : La taille 11 ou 12 est généralement recommandée.\n\n3. Interligne : Un interligne 1,5 ou double est couramment utilisé. Cela permet une meilleure lisibilité tout en conservant une bonne densité de texte.\n\nVoici un exemple de formatage recommandé :\n\n- Police : Times New Roman\n- Taille de police : 12\n- Interligne : 1,5 ou double\n\nN'oubliez pas de vérifier les directives spécifiques de votre institution ou de votre employeur, car certaines peuvent avoir des exigences spécifiques.",
+        "statut": "success",
+        "erreur": null
+    },
+    {
+        "question": "Quelle est la date de la session de rattrapage des soutenances ?",
+        "reponse": "Je suis désolé, mais je n'ai pas d'informations précises sur la date de la session de rattrapage des soutenances sans plus de contexte. Pour obtenir cette information, vous devriez :\n\n1. Contacter directement l'administration de l'établissement d'enseignement où la soutenance a été initialement programmée.\n2. Vérifier le site web de l'établissement ou son portail en ligne, s'il en existe un.\n3. Consulter le calendrier académique de votre établissement.\n4. Interroger votre conseiller académique ou le secrétariat de votre département.\n\nSi vous pouvez me donner plus de détails sur l'établissement ou le domaine d'étude concerné, je pourrai peut-être vous aider davantage.",
+        "statut": "success",
+        "erreur": null
+    },
+    {
+        "question": "Quel est le montant de la bourse accordée aux étudiants effectuant leur PFE ?",
+        "reponse": "Le montant de la bourse accordée aux étudiants effectuant leur Projet Final d'Études (PFE) peut varier selon les établissements d'enseignement et les pays. En France, par exemple, le montant de la bourse pour un PFE est généralement compris entre 200 et 500 euros par mois, selon les conditions et les établissements. \n\nCependant, pour des informations précises et à jour, il serait recommandé de consulter directement le site web de votre établissement d'enseignement ou de contacter le service des bourses ou de l'orientation de votre université.",
+        "statut": "success",
+        "erreur": null
     }
 ]
