@@ -1,6 +1,6 @@
 # PFE Navigator
 
-Assistant de questions-réponses sur les documents du Projet de Fin d'Études (PFE) de l'ISIT. Le projet est un notebook Python qui compare un grand modèle de langage (LLM) utilisé seul à un système de génération augmentée par récupération (RAG).
+Assistant de questions-réponses sur les documents du Projet de Fin d'Études (PFE) . Le projet est un notebook Python qui compare un grand modèle de langage (LLM) utilisé seul à un système de génération augmentée par récupération (RAG).
 
 > **En bref :** le notebook lit cinq PDF, retrouve les passages les plus proches d'une question et demande à Ollama de répondre en français à partir de ces passages en citant les documents et les pages.
 
